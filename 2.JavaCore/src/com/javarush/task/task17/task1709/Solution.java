@@ -5,7 +5,7 @@ package com.javarush.task.task17.task1709;
 */
 
 public class Solution {
-    /*public static volatile int proposal = 0;
+    public static volatile int proposal = 0;
 
     public static void main(String[] args) {
         new AcceptProposal().start();
@@ -44,22 +44,7 @@ public class Solution {
 
             }
         }
-    }*/
-
-    public static int i = 0;
-
-    public static void changeI() {
-        int i = Solution.i;
-
-        i++;
-
-        Solution.i = i;
-
-        System.out.println("Sol.i = " + Solution.i);
-        System.out.println("i = " + i);
-    }
-
-    public static void main(String[] args) {
-        Solution.changeI();
     }
 }
+
+
