@@ -36542,3 +36542,94 @@ java.lang.annotation.IncompleteAnnotationException: org.intellij.lang.annotation
 2018-09-11 14:09:12 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
 2018-09-11 14:10:13 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
 2018-09-11 14:11:13 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-11 14:12:13 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-11 14:13:07 INFO  JavaRushTasksProjectComponent.projectClosing(165) - ---------- Project JavaRushTasks closed ----------
+
+2018-09-11 14:13:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-11 14:13:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-11 14:13:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-11 14:13:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-11 14:13:08 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-12 08:16:07 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+2018-09-12 08:16:07 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Version 3.21 ----------
+
+2018-09-12 08:16:07 INFO  ApacheHttpClient.createAsyncHttpClient(129) - Выбрано 1 прокси. Тип : DIRECT
+2018-09-12 08:16:08 INFO  ApacheHttpClient.<init>(87) - ApacheHttpClient проинстанциирован успешно.
+2018-09-12 08:16:09 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:16:09 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:16:09 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-09-12 08:16:09 INFO  ApacheHttpClient.login(228) - Ожидание ответа сервера.
+2018-09-12 08:16:10 INFO  ApacheHttpClient.login(232) - responseCode = 200
+2018-09-12 08:16:10 INFO  ApacheHttpClient.login(263) - JSESSIONID OK
+2018-09-12 08:16:10 INFO  ApacheHttpClient.refreshUserInfo(291) - responseCode = 200
+2018-09-12 08:16:10 INFO  ApacheHttpClient.refreshUserInfo(297) - Информация о пользователе получена.
+2018-09-12 08:16:10 INFO  ApacheHttpClient.startGA(31) - GAService запущен.
+2018-09-12 08:16:10 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-09-12 08:16:53 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-12 08:16:53 INFO  ApacheHttpClient.getFilteredTasks(324) - responseCode = 200
+2018-09-12 08:16:59 INFO  ApacheHttpClient.getTaskTemplateInfo(341) - responseCode = 200
+2018-09-12 08:16:59 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:16:59 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:00 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:17:00 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:02 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:17:02 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:03 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-12 08:17:03 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:17:03 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:04 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:17:04 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:05 INFO  ApacheHttpClient.testConnection(187) - responseCode = 200
+2018-09-12 08:17:05 INFO  ApacheHttpClient.testConnection(198) - result = true
+2018-09-12 08:17:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:18:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:19:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:20:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:21:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:22:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:23:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:24:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:25:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:26:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:27:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:28:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:29:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:30:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:31:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:31:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:32:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:32:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:33:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:33:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:57 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Ошибка во время отправки ивента на сервер.
+2018-09-12 08:50:57 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:57 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:57 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:57 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:58 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:59 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:59 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:50:59 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:51:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:52:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:53:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:54:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:55:06 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-12 08:55:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-12 08:55:07 INFO  ApacheHttpClient.getWebResourceAsStream(437) - responseCode = 200
+2018-09-12 08:55:07 INFO  ApacheHttpClient.completed(27) - responseCode = 400
+2018-09-12 08:55:07 INFO  ApacheHttpClient.getTask(422) - responseCode = 200
+2018-09-12 08:55:07 WARN  TaskCompleted.run(66) - Задача "Самые редкие байты" уже решена
+2018-09-12 08:55:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:56:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:57:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
+2018-09-12 08:58:10 INFO  ApacheHttpClient.sendEvent(470) - responseCode = 200
