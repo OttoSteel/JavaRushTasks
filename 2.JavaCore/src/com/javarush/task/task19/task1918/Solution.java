@@ -6,6 +6,7 @@ package com.javarush.task.task19.task1918;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
 import org.jsoup.select.Elements;
 
@@ -37,8 +38,13 @@ public class Solution {
 
         String fileContent = fileContentSB.toString();
         String tag = args[0];
-        Document document = Jsoup.parse(fileContent,  "", Parser.xmlParser());
+        //Document document = Jsoup.parse(fileContent,  "", Parser.xmlParser());
+        Document document = Jsoup.parse(fileContent);
         Elements elements = document.select(tag);
-        System.out.println(elements);
+        for (Element e:elements
+             ) {
+            System.out.println(e);
+        }
+        //System.out.println(elements);
     }
 }
